@@ -14,6 +14,7 @@ strong {
   font-family: Arial, sans-serif;
   font-size: 20px;
   line-height: 1.6px;
+  padding: 5px 10px 15px 20px; /* topo, direita, baixo, esquerda */
 }
 
 .detalhe{
